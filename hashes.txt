@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cenizas de una pasión
+
+This log tracks the cryptographic history and versioning for the song **Cenizas de una pasión** (cenizas-de-una-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:12:26.964856 | `v1` | `713edeb36a81ed71666b374fa7c60ca43004852f206a42d6682d5c56c469b93c` | `7f1371edcc9d987eecd9cf57636be34fd04d44484a2b54e23f1edc967041b11b` | `2026-06-13_cenizas-de-una-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

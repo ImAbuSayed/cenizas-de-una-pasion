@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-una-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cenizas de una pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-pasion/) |
+| **Get License** | [Music Rights & Licensing for Cenizas de una pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-una-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `713edeb36a81ed71666b374fa7c60ca43004852f206a42d6682d5c56c469b93c` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
